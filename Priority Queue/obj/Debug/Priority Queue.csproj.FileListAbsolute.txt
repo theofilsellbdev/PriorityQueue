@@ -1,0 +1,6 @@
+C:\Users\theof\RiderProjects\Priority Queue\Priority Queue\bin\Debug\Priority_Queue.exe
+C:\Users\theof\RiderProjects\Priority Queue\Priority Queue\bin\Debug\Priority_Queue.pdb
+C:\Users\theof\RiderProjects\Priority Queue\Priority Queue\obj\Debug\Priority Queue.csprojAssemblyReference.cache
+C:\Users\theof\RiderProjects\Priority Queue\Priority Queue\obj\Debug\Priority Queue.csproj.CoreCompileInputs.cache
+C:\Users\theof\RiderProjects\Priority Queue\Priority Queue\obj\Debug\Priority_Queue.exe
+C:\Users\theof\RiderProjects\Priority Queue\Priority Queue\obj\Debug\Priority_Queue.pdb
